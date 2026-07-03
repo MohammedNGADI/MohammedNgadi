@@ -33,7 +33,7 @@ Hi 👋, I'm Mohammed NGADI
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
   
-  <a href="https://www.instagram.com/TON_USERNAME/" target="_blank">
+  <a href="https://www.instagram.com/aminee_vbn/?hl=fr" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="45" alt="Instagram"/>
   </a>
 </p>
