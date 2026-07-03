@@ -12,27 +12,11 @@ Hi 👋, I'm Mohammed NGADI
 
 📫 ngadimohammed2004@gmail.com
 
-## 🛠️ Technologies & Tools
+## 🛠️ Languages & Frameworks
 
-### Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### Frameworks
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,reactnative,flutter,python,cpp,cs,php,js,html,css,tailwind,bootstrap,mysql,postgres,docker,git,github,vscode" />
+</p>
 
 ### Databases
 
