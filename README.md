@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi 👋, I'm Mohammed NGADI
 
-<!--
-**MohammedNGADI/MohammedNgadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI & Digital Engineering Student at ENIAD
 
-Here are some ideas to get you started:
+💻 Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Passionate about Spring Boot, React, React Native and Artificial Intelligence
+
+📍 Oujda, Morocco
+
+🚀 Currently working on AI-powered tourism applications
+
+📫 ngadimohammed2004@gmail.com
