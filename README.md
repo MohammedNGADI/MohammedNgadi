@@ -45,3 +45,63 @@ Hi 👋, I'm Mohammed NGADI
 
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MohammedNGADI&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🌍 Smart Tourism Mobile Application
+
+📱 **Tech Stack**
+
+React Native • Spring Boot • PostgreSQL
+
+AI-powered tourism recommendation application with authentication, itinerary management, and intelligent search.
+
+</td>
+
+<td width="50%">
+
+### 💼 Recruitment Platform
+
+🌐 **Tech Stack**
+
+PHP • JavaScript • MySQL • Bootstrap
+
+Web platform connecting recruiters and candidates with a secure admin dashboard.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### 🎬 Movie Mobile App
+
+📱 **Tech Stack**
+
+Flutter • TMDB API
+
+Mobile application to browse movies, ratings, posters, and manage favorites.
+
+</td>
+
+<td>
+
+### 🛠️ Intervention Management
+
+🐍 **Tech Stack**
+
+Python • Tailwind CSS
+
+Web application for managing intervention requests between technical and operational teams.
+
+</td>
+
+</tr>
+</table>
